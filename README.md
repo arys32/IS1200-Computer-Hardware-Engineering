@@ -1,8 +1,8 @@
-# IS1200 Computer Hardware Engineering
+# IS1200 Computer Hardware Engineering Mini Project
 
-This repository contains my coursework and final project for the IS1200 Computer Hardware Engineering course, focusing on low-level programming and hardware-software integration.
+This repository contains my final mini project for the IS1200 Computer Hardware Engineering course, focusing on low-level programming and hardware-software integration.
 
-## Snail Run (Advanced Project)
+## Snail Run
 **Snail Run** is a real-time endless runner game built for the DE10-Lite FPGA board, which utilizes the RISC-V instruction set. The game challenges players to survive by switching between three fixed lanes to avoid oncoming obstacles, with the difficulty scaling up over time as obstacles spawn and move faster. 
 
 ### Key Technical Features
